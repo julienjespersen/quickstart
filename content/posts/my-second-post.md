@@ -7,3 +7,5 @@ draft = false
 ## And next
 
 telling more things!
+
+![Yoga](https://static.india.com/wp-content/uploads/2021/06/yoga-4732209_1280.jpg "San Juan Mountains")
