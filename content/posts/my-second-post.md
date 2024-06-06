@@ -9,3 +9,5 @@ draft = false
 Can we add images?
 
 ![Yoga](https://static.india.com/wp-content/uploads/2021/06/yoga-4732209_1280.jpg "San Juan Mountains")
+
+{{ $image := resources.GetRemote "https://gohugo.io/img/hugo-logo.png" }}
