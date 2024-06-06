@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 06 Jun 2024 16:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>And next Can we add images?&#xA;{{ $image := resources.GetRemote &amp;ldquo;https://gohugo.io/img/hugo-logo.png&amp;quot; }}</description>
+      <description>And next Can we add images?&#xA;{{ $image := resources.GetRemote &amp;ldquo;https://gohugo.io/img/hugo-logo.png&amp;quot; }}&#xA;Photo by Diego F. Parra: https://www.pexels.com/photo/boats-in-the-port-in-alexandria-egypt-15238644/</description>
     </item>
     <item>
       <title>Le titre du post</title>
