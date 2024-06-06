@@ -6,14 +6,28 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2024 12:59:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 16:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 2nd Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Thu, 06 Jun 2024 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>And next Can we add images?&#xA;{{ $image := resources.GetRemote &amp;ldquo;https://gohugo.io/img/hugo-logo.png&amp;quot; }}</description>
+    </item>
+    <item>
+      <title>Le titre du post</title>
+      <link>http://localhost:1313/posts/un-titre-problematique/</link>
+      <pubDate>Thu, 06 Jun 2024 12:59:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/un-titre-problematique/</guid>
+      <description>Le titre du post un texte qui décrit le contenu</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 01 Jun 2024 12:59:26 +0200</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;First topic to be discussed Blablabla</description>
     </item>
   </channel>
 </rss>
